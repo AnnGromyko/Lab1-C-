@@ -17,7 +17,7 @@ float x, y;
 }
 void fun(float x)
 {
-
+//gggggggggggggggg
 
 
    if (x>=-7 && x<=-3){
